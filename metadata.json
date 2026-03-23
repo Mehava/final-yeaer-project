@@ -1,0 +1,8 @@
+{
+  "name": "AIVISION",
+  "description": "Premium AI content engine for scripts, visuals, and audio tailored for the Indian market.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
